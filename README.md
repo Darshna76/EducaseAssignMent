@@ -1,4 +1,4 @@
- Project Description
+### Project Description
 
 ## Overview
 
@@ -34,3 +34,10 @@ This project is a React-based web application that serves as a starting point fo
 - React: The frontend of the application is built using React, a JavaScript library for building user interfaces.
 - React Router: The application uses React Router for client-side routing and navigation.
 - `react-toastify`: This library is used for displaying toast notifications.
+
+## Deployment
+
+This project is deployed and hosted on Netlify, making it accessible to users on the web. You can access the live version of the application at the following URL: [Project on Netlify](https://your-netlify-url.com).
+
+Netlify provides continuous deployment and hosting services, ensuring that your application is always up and running with the latest changes from your repository.
+
