@@ -37,7 +37,7 @@ This project is a React-based web application that serves as a starting point fo
 
 ## Deployment
 
-This project is deployed and hosted on Netlify, making it accessible to users on the web. You can access the live version of the application at the following URL: [Project on Netlify](https://your-netlify-url.com).
+This project is deployed and hosted on Netlify, making it accessible to users on the web. You can access the live version of the application at the following URL: [Project on Netlify](https://popx-react.netlify.app/).
 
 Netlify provides continuous deployment and hosting services, ensuring that your application is always up and running with the latest changes from your repository.
 
