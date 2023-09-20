@@ -1,0 +1,11 @@
+.login {
+    /* margin: 1vh; */
+    margin: 1rem;
+}
+
+.register-btn {
+
+    padding: 0;
+    height: auto;
+    margin: 10px 0 0 16px;
+}

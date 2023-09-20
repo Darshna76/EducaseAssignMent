@@ -1,0 +1,54 @@
+.profile {
+    height: 70vh;
+    overflow: hidden;
+}
+
+.nav {
+    background-color: #fff;
+    padding: 1rem;
+    width: 100%;
+    font-weight: bold;
+    font-size: large;
+    margin: 0;
+    
+   
+
+
+}
+
+img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 1rem;
+}
+
+.camera-icon {
+    position: absolute;
+    left: 59px;
+    top: 125px;
+
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+
+.span p {
+    margin: 0;
+    font-weight: 700;
+}
+
+.span {
+    padding: 0;
+    margin: 1rem;
+}
+
+.text {
+    padding: 11px;
+    border-bottom: 3px dotted #dededf;
+}

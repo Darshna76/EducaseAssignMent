@@ -1,0 +1,36 @@
+.custom-input {
+
+  display: inline-block;
+  position: relative;
+  border: 2px solid #333;
+  padding: 15px;
+  width: 90%;
+  border-radius: 5px;
+  background-color: #f7f8f9;
+
+
+
+}
+
+.custom-label {
+  position: absolute;
+  display: inline-block;
+  color: #4824e8;
+  font-size: 1rem;
+  margin: 10px 0 0 16px;
+  background-color: #f7f8f9;
+  z-index: 1;
+  padding: 3px;
+  padding-top: 0;
+  padding-right: 10px;
+
+
+}
+
+.custom-label::after {
+  content: "*";
+  color: red;
+  position: absolute;
+  top: 0;
+  right: 0;
+}

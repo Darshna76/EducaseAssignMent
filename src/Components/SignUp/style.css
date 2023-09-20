@@ -1,0 +1,12 @@
+.SignUp {
+    margin: 1rem;
+}
+
+.register-btn {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 70vh;
+    padding: 0;
+    margin: 0;
+}
