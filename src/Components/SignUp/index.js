@@ -46,7 +46,8 @@ function SignUp() {
 
   return (
     <div className="SignUp">
-      <h1>Create Your PopX Account</h1>
+      <h1 style={{"padding":"0", "margin":0}}>Create Your
+       PopX Account</h1>
       <InputComponent
         type="text"
         value={fullName}
@@ -116,7 +117,7 @@ function SignUp() {
       <label htmlFor="noRadio">No</label>
 
       <br />
-      <div className="register-btn">
+      <div className="btn">
         <Button
           text="Create Account"
           width="90%"
